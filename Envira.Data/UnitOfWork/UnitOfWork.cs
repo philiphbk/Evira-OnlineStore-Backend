@@ -1,17 +1,14 @@
 ﻿using Evira.Data.DbContext;
 using Evira.Data.Repository;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Evira.Models;
+
 
 namespace Evira.Data.UnitOfWork
 {
     public class UnitOfWork : IUnitOfWork
     {
         private readonly EviraDbContext _context;
-        //private IGenericRepository<> _;
+        private IGenericRepository<Eviras> _evira;
 
 
         public UnitOfWork(EviraDbContext context)
@@ -19,7 +16,7 @@ namespace Evira.Data.UnitOfWork
             _context = context;
         }
 
-        //public IGenericRepository<> Myndas => _myndas ??= new GenericRepository<Entities.Myndas>(_context);
+        public IGenericRepository<Eviras> Eviras => _evira ??= new GenericRepository<Eviras>(_context);
 
         public void Dispose()
         {

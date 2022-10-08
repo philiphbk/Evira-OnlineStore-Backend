@@ -893,6 +893,21 @@
             "rid": "win"
           }
         }
+      },
+      "Evira.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.9",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9"
+        },
+        "compile": {
+          "bin/placeholder/Evira.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Evira.Models.dll": {}
+        }
       }
     }
   },
@@ -2235,11 +2250,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Evira.Models/1.0.0": {
+      "type": "project",
+      "path": "../Envira.Models/Evira.Models.csproj",
+      "msbuildProject": "../Envira.Models/Evira.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
+      "Evira.Models >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.9",
       "Microsoft.EntityFrameworkCore >= 6.0.9",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.9",
@@ -2279,7 +2300,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Envira\\Envira.API\\Envira.Models\\Evira.Models.csproj": {
+              "projectPath": "C:\\Envira\\Envira.API\\Envira.Models\\Evira.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -139,7 +139,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Envira\\Envira.API\\Envira.Models\\Evira.Models.csproj": {
+                "projectPath": "C:\\Envira\\Envira.API\\Envira.Models\\Evira.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
