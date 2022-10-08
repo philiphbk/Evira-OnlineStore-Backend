@@ -1,0 +1,5 @@
+C:\Envira\Envira.API\Envira.Data\obj\Debug\net6.0\Evira.Data.csproj.AssemblyReference.cache
+C:\Envira\Envira.API\Envira.Data\obj\Debug\net6.0\Evira.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Envira\Envira.API\Envira.Data\obj\Debug\net6.0\Evira.Data.AssemblyInfoInputs.cache
+C:\Envira\Envira.API\Envira.Data\obj\Debug\net6.0\Evira.Data.AssemblyInfo.cs
+C:\Envira\Envira.API\Envira.Data\obj\Debug\net6.0\Evira.Data.csproj.CoreCompileInputs.cache

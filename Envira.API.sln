@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32916.344
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evira.API", "Envira.API\Evira.API.csproj", "{0F875950-A896-4723-A6B2-3B30D06B4AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evira.Models", "Envira.Models\Evira.Models.csproj", "{69C9D80E-9CC3-4E4B-99C5-98B34161C2B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evira.Data", "Envira.Data\Evira.Data.csproj", "{22944F0D-2854-418D-A57D-3098C499DA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evira.Shared", "Evira.Shared\Evira.Shared.csproj", "{4DD60172-A8B7-4C05-98AB-CAF79EF443AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F875950-A896-4723-A6B2-3B30D06B4AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F875950-A896-4723-A6B2-3B30D06B4AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F875950-A896-4723-A6B2-3B30D06B4AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F875950-A896-4723-A6B2-3B30D06B4AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C9D80E-9CC3-4E4B-99C5-98B34161C2B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C9D80E-9CC3-4E4B-99C5-98B34161C2B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C9D80E-9CC3-4E4B-99C5-98B34161C2B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C9D80E-9CC3-4E4B-99C5-98B34161C2B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22944F0D-2854-418D-A57D-3098C499DA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22944F0D-2854-418D-A57D-3098C499DA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22944F0D-2854-418D-A57D-3098C499DA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22944F0D-2854-418D-A57D-3098C499DA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD60172-A8B7-4C05-98AB-CAF79EF443AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD60172-A8B7-4C05-98AB-CAF79EF443AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD60172-A8B7-4C05-98AB-CAF79EF443AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD60172-A8B7-4C05-98AB-CAF79EF443AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EADB9453-C99F-4FE0-9AAA-02A52672158F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Envira\Envira.API\Envira.Models\bin\Debug\net6.0\Evira.Models.deps.json
+C:\Envira\Envira.API\Envira.Models\bin\Debug\net6.0\Evira.Models.runtimeconfig.json
+C:\Envira\Envira.API\Envira.Models\bin\Debug\net6.0\Evira.Models.dll
+C:\Envira\Envira.API\Envira.Models\bin\Debug\net6.0\Evira.Models.pdb
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\Evira.Models.csproj.AssemblyReference.cache
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\Evira.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\Evira.Models.AssemblyInfoInputs.cache
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\Evira.Models.AssemblyInfo.cs
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\Evira.Models.csproj.CoreCompileInputs.cache
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\Evira.Models.dll
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\refint\Evira.Models.dll
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\Evira.Models.pdb
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\Evira.Models.genruntimeconfig.cache
+C:\Envira\Envira.API\Envira.Models\obj\Debug\net6.0\ref\Evira.Models.dll

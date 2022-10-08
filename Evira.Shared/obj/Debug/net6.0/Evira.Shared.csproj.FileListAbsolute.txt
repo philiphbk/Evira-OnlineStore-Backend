@@ -1,0 +1,14 @@
+C:\Envira\Envira.API\Evira.Shared\bin\Debug\net6.0\Evira.Shared.deps.json
+C:\Envira\Envira.API\Evira.Shared\bin\Debug\net6.0\Evira.Shared.runtimeconfig.json
+C:\Envira\Envira.API\Evira.Shared\bin\Debug\net6.0\Evira.Shared.dll
+C:\Envira\Envira.API\Evira.Shared\bin\Debug\net6.0\Evira.Shared.pdb
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\Evira.Shared.csproj.AssemblyReference.cache
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\Evira.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\Evira.Shared.AssemblyInfoInputs.cache
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\Evira.Shared.AssemblyInfo.cs
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\Evira.Shared.csproj.CoreCompileInputs.cache
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\Evira.Shared.dll
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\refint\Evira.Shared.dll
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\Evira.Shared.pdb
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\Evira.Shared.genruntimeconfig.cache
+C:\Envira\Envira.API\Evira.Shared\obj\Debug\net6.0\ref\Evira.Shared.dll
